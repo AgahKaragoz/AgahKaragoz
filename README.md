@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AgahKaragoz
+- 👀 I’m interested in deep learning
+- 💞️ I’m looking to collaborate on deep learning applications
+- 📫 How to reach me: karagoza15@itu.edu.tr
